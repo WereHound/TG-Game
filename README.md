@@ -109,12 +109,10 @@ Assets:</br>
 https://helianthus-games.itch.io/animated-pixel-art-planets </br>
 https://bongseng.itch.io/parallax-forest-desert-sky-moon </br>
 </br></br>
-UI:
+UI: </br>
 https://toffeecraft.itch.io/ui-user-interface-pack-elegant </br>
-https://elvgames.itch.io/free-inventory-asset-pack </br>
-https://elvgames.itch.io/free-inventory-for-rpg-or-farming-games </br>
 </br></br>
-Structures/Tilesets:</br>
+Structures/Tilesets: </br>
 https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack 16x16 </br>
 </br></br>
 Weapons: </br>
@@ -128,12 +126,13 @@ Projectiles: </br>
 https://bdragon1727.itch.io/500-pixel-bullet-24x24 24x24 </br>
 </br></br>
 Characters: </br>
-https://papoycore.itch.io/fairy 32x32 </br>
-https://papoycore.itch.io/free-meow 32x48 </br>
-https://papoycore.itch.io/bat 64x64 </br>
-https://papoycore.itch.io/free-drone 32x96 32x32 22x24 </br>
-https://papoycore.itch.io/free-agis 224x240 </br>
-https://bruno-farias.itch.io/sidescroller-character-pack </br>
+Shop Merchant 1: https://papoycore.itch.io/fairy 32x32 </br>
+Enemy 1: https://atari-boy.itch.io/skull-wolf-pixel-art 64x64 </br> 
+Enemy 2: https://papoycore.itch.io/bat 64x64 </br>
+Enemy 3: https://papoycore.itch.io/free-drone 32x96 32x32 22x24 </br>
+Boss 1: https://papoycore.itch.io/free-agis 224x240 </br>
+Pet 1: https://admurin.itch.io/top-down-mobs-dog </br>
+Player Character 1: https://lukepolice.itch.io/pixelarium-playable-character</br>
 
 
 
