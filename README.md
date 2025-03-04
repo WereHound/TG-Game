@@ -10,8 +10,7 @@ Resumo do Jogo:
 O personagem principal aterrissa no planeta após sua espaçonave explodir. Lute contra inimigos e junte recursos para melhorar seu equipamento. Compre as peças que faltam de sua nave trocando os recursos obtidos no planeta para reconstruir sua espaçonave e voltar às estrelas.
 
 Esboço do Jogo:
-Os jogadores exploram um planeta à procura de recursos,os quais podem ser vendidos ou trocados em lojas por itens como poderes, armas e peças para sua espaçonave.
-. O jogador luta contra bosses para desbloquear novas partes do mundo e assim progredir na história do jogo.
+Os jogadores exploram um planeta à procura de recursos,os quais podem ser vendidos ou trocados em lojas por itens como poderes, armas e peças para sua espaçonave. O jogador luta contra bosses para desbloquear novas partes do mundo e assim progredir na história do jogo.
 
 Modo de Jogo: Single Player
 
@@ -30,111 +29,111 @@ Terraria, Starbound, Dig or Die, It Lurks Below, Planet Centauri, Crea, Junk Jac
 
 
 
-Título: Voltando para Casa
-Plataforma: PC (com possibilidade de expansão para consoles no futuro)
-Idade do Público-Alvo: 13+
-Classificação: TEEN (Sangue, Referência de drogas, Linguagem Moderada, Uso de Tabaco, Violência Fantástica e Temas de Sobrevivência)
+Título: Voltando para Casa </br>
+Plataforma: PC (com possibilidade de expansão para consoles no futuro) </br>
+Idade do Público-Alvo: 13+ </br>
+Classificação: TEEN (Sangue, Referência de drogas, Linguagem Moderada, Uso de Tabaco, Violência Fantástica e Temas de Sobrevivência) 
 
-Resumo do Jogo:
+Resumo do Jogo: </br>
 Após uma explosão catastrófica em sua espaçonave, o personagem principal é forçado a aterrissar em um planeta desconhecido e hostil. Para sobreviver e escapar, o jogador deve explorar o ambiente, coletar recursos, lutar contra criaturas perigosas e trocar itens valiosos por equipamentos e peças para sua nave. O objetivo final é reconstruir a espaçonave, peça por peça, para que o protagonista possa finalmente voltar às estrelas.
 
-Esboço do Jogo:
-O jogo combina elementos de exploração, sobrevivência e combate estratégico. Os jogadores exploram um planeta vasto e proceduralmente gerado, repleto de biomas únicos, recursos valiosos e perigos ocultos.
-Exploração e Coleta:
-O jogador coleta recursos naturais, como minerais, plantas e artefatos alienígenas, que podem ser vendidos ou trocados em lojas por equipamentos, armas e peças para a nave.
-Combate e Bosses:
-O planeta é habitado por criaturas hostis e chefes poderosos. Derrotar esses inimigos desbloqueia novas áreas, tecnologias e habilidades, permitindo que o jogador explore regiões anteriormente inacessíveis.
-Progressão Não-Linear:
-O jogador tem liberdade para escolher como progredir, seja focando em melhorar equipamentos, explorar novos biomas ou enfrentar chefes. A ordem de conclusão dos objetivos pode variar a cada sessão.
-Reconstrução da Nave:
-O objetivo final é coletar peças raras e recursos especiais para reconstruir a nave. Isso requer planejamento estratégico, pois algumas peças só podem ser obtidas ao derrotar chefes ou explorar áreas de alto risco.
+Esboço do Jogo: </br>
+O jogo combina elementos de exploração, sobrevivência e combate estratégico. Os jogadores exploram um planeta vasto e proceduralmente gerado, repleto de biomas únicos, recursos valiosos e perigos ocultos. </br>
+Exploração e Coleta: </br>
+O jogador coleta recursos naturais, como minerais, plantas e artefatos alienígenas, que podem ser vendidos ou trocados em lojas por equipamentos, armas e peças para a nave. </br>
+Combate e Bosses: </br>
+O planeta é habitado por criaturas hostis e chefes poderosos. Derrotar esses inimigos desbloqueia novas áreas, tecnologias e habilidades, permitindo que o jogador explore regiões anteriormente inacessíveis. </br>
+Progressão Não-Linear: </br>
+O jogador tem liberdade para escolher como progredir, seja focando em melhorar equipamentos, explorar novos biomas ou enfrentar chefes. A ordem de conclusão dos objetivos pode variar a cada sessão. </br>
+Reconstrução da Nave: </br>
+O objetivo final é coletar peças raras e recursos especiais para reconstruir a nave. Isso requer planejamento estratégico, pois algumas peças só podem ser obtidas ao derrotar chefes ou explorar áreas de alto risco. </br>
 
-Modo de Jogo:
+Modo de Jogo: </br>
 Single Player (com potencial para expansão multiplayer cooperativo no futuro).
 
-Diferenciais de Venda (DV):
-Replayabilidade:
-O planeta é gerado proceduralmente, garantindo que cada nova partida ofereça uma experiência única. Além disso, a ordem de exploração e enfrentamento de chefes pode variar, incentivando diferentes estratégias a cada jogatina.
-Jogabilidade Não-Linear:
-O jogador tem liberdade para escolher seu caminho, seja focando em exploração, combate ou coleta de recursos. Artefatos e habilidades especiais desbloqueiam novas rotas e estratégias.
-Sistema de Troca e Economia:
-Diferente de outros jogos de sobrevivência, "Voltando para Casa" permite que o jogador troque recursos coletados por itens essenciais, como armas, equipamentos e peças para a nave. Isso adiciona uma camada estratégica de gerenciamento de recursos.
-Chefes Únicos e Desafios Escalonados:
-Cada chefe possui mecânicas de luta únicas e recompensas exclusivas, como tecnologias avançadas ou acesso a novos biomas. A dificuldade aumenta progressivamente, mantendo o jogador engajado.
-Narrativa Ambiental:
-A história é contada através de artefatos, ruínas e diálogos com NPCs, criando um mundo rico e imersivo sem interromper o ritmo do jogo.
+Diferenciais de Venda (DV): </br>
+Replayabilidade: </br>
+O planeta é gerado proceduralmente, garantindo que cada nova partida ofereça uma experiência única. Além disso, a ordem de exploração e enfrentamento de chefes pode variar, incentivando diferentes estratégias a cada jogatina. </br>
+Jogabilidade Não-Linear: </br>
+O jogador tem liberdade para escolher seu caminho, seja focando em exploração, combate ou coleta de recursos. Artefatos e habilidades especiais desbloqueiam novas rotas e estratégias. </br>
+Sistema de Troca e Economia: </br>
+Diferente de outros jogos de sobrevivência, "Voltando para Casa" permite que o jogador troque recursos coletados por itens essenciais, como armas, equipamentos e peças para a nave. Isso adiciona uma camada estratégica de gerenciamento de recursos. </br>
+Chefes Únicos e Desafios Escalonados: </br>
+Cada chefe possui mecânicas de luta únicas e recompensas exclusivas, como tecnologias avançadas ou acesso a novos biomas. A dificuldade aumenta progressivamente, mantendo o jogador engajado. </br>
+Narrativa Ambiental: </br>
+A história é contada através de artefatos, ruínas e diálogos com NPCs, criando um mundo rico e imersivo sem interromper o ritmo do jogo. </br>
 
-Produtos Concorrentes:
-Terraria (exploração e construção em mundo aberto)
-Starbound (exploração espacial e sobrevivência)
-Dig or Die (sobrevivência e defesa baseada em ondas)
-Planet Centauri (exploração e crafting em mundo alienígena)
-Diferenciação:
-Enquanto os jogos concorrentes focam em exploração e crafting, "Voltando para Casa" se destaca ao oferecer um sistema de troca e economia integrado à progressão, além de uma narrativa envolvente e combates desafiadores contra chefes únicos.
+Produtos Concorrentes: </br>
+Terraria (exploração e construção em mundo aberto) </br>
+Starbound (exploração espacial e sobrevivência) </br>
+Dig or Die (sobrevivência e defesa baseada em ondas) </br>
+Planet Centauri (exploração e crafting em mundo alienígena) </br>
+Diferenciação: </br>
+Enquanto os jogos concorrentes focam em exploração e crafting, "Voltando para Casa" se destaca ao oferecer um sistema de troca e economia integrado à progressão, além de uma narrativa envolvente e combates desafiadores contra chefes únicos. </br>
 
-Narrativa e Mundo:
+Narrativa e Mundo: </br>
 O planeta é um lugar misterioso, com uma história antiga revelada através de ruínas, artefatos e NPCs. O jogador descobre que o planeta já foi habitado por uma civilização avançada que desapareceu após um evento catastrófico. À medida que explora, o jogador encontra registros dessa civilização, que podem fornecer pistas sobre como escapar do planeta.
 
-Personagens:
-Protagonista: Um piloto espacial que sobreviveu à explosão de sua nave. Sua personalidade e motivações são reveladas através de diálogos internos e interações com NPCs.
-NPCs: Aliados encontrados ao longo da jornada, como comerciantes, engenheiros e sobreviventes de outras naves. Eles oferecem missões, itens e informações sobre o planeta.
+Personagens: </br>
+Protagonista: Um piloto espacial que sobreviveu à explosão de sua nave. Sua personalidade e motivações são reveladas através de diálogos internos e interações com NPCs. </br>
+NPCs: Aliados encontrados ao longo da jornada, como comerciantes, engenheiros e sobreviventes de outras naves. Eles oferecem missões, itens e informações sobre o planeta. </br>
 Inimigos: Criaturas nativas do planeta, desde pequenos predadores até chefes gigantescos com habilidades únicas.
 
-Progressão e Customização:
-Equipamentos: O jogador pode adquirir e melhorar armas, armaduras e ferramentas através de trocas com NPCs.
-Habilidades: Derrotar chefes desbloqueia habilidades especiais, como saltos altos, escudos de energia ou visão noturna.
+Progressão e Customização: </br>
+Equipamentos: O jogador pode adquirir e melhorar armas, armaduras e ferramentas através de trocas com NPCs. </br>
+Habilidades: Derrotar chefes desbloqueia habilidades especiais, como saltos altos, escudos de energia ou visão noturna. </br>
 Nave: A reconstrução da nave é o foco principal, mas o jogador pode personalizá-la com upgrades de velocidade, armas e defesa, adquiridos através de trocas.
 
-Arte e Estilo Visual:
-Estilo: Gráficos 2D pixel art com iluminação dinâmica e efeitos visuais detalhados.
-Ambiente: Biomas variados, como florestas alienígenas, desertos tóxicos, cavernas luminescentes e ruínas antigas.
-Animação: Animações fluidas para personagens, inimigos e efeitos especiais.
+Arte e Estilo Visual: </br>
+Estilo: Gráficos 2D pixel art com iluminação dinâmica e efeitos visuais detalhados. </br>
+Ambiente: Biomas variados, como florestas alienígenas, desertos tóxicos, cavernas luminescentes e ruínas antigas. </br>
+Animação: Animações fluidas para personagens, inimigos e efeitos especiais. 
 
-Som e Música:
-Trilha Sonora: Música atmosférica e imersiva, com temas diferentes para cada bioma e momentos de tensão durante combates.
-Efeitos Sonoros: Sons realistas para ações como coleta, combate e interações com o ambiente.
+Som e Música: </br>
+Trilha Sonora: Música atmosférica e imersiva, com temas diferentes para cada bioma e momentos de tensão durante combates. </br>
+Efeitos Sonoros: Sons realistas para ações como coleta, combate e interações com o ambiente. </br>
 
-Planejamento de Desenvolvimento:
-Fase 1: Protótipo básico com mecânicas de exploração, coleta e combate.
-Fase 2: Implementação de sistema de trocas, NPCs e economia.
-Fase 3: Criação de biomas, chefes e narrativa.
+Planejamento de Desenvolvimento: </br>
+Fase 1: Protótipo básico com mecânicas de exploração, coleta e combate. </br>
+Fase 2: Implementação de sistema de trocas, NPCs e economia. </br>
+Fase 3: Criação de biomas, chefes e narrativa. </br>
 Fase 4: Polimento, balanceamento e testes de qualidade.
 
-Conclusão:
+Conclusão: </br>
 "Voltando para Casa" é um jogo que combina exploração, sobrevivência e combate em um mundo alienígena rico e cheio de segredos. Com mecânicas únicas, como o sistema de trocas e a reconstrução da nave, o jogo oferece uma experiência envolvente e repleta de desafios, garantindo horas de diversão e replayability.
 
 </br></br></br></br>
 
 
-Assets:
-https://helianthus-games.itch.io/animated-pixel-art-planets 
-https://bongseng.itch.io/parallax-forest-desert-sky-moon 
+Assets:</br>
+https://helianthus-games.itch.io/animated-pixel-art-planets </br>
+https://bongseng.itch.io/parallax-forest-desert-sky-moon </br>
 </br></br>
 UI:
-https://toffeecraft.itch.io/ui-user-interface-pack-elegant
-https://elvgames.itch.io/free-inventory-asset-pack
-https://elvgames.itch.io/free-inventory-for-rpg-or-farming-games
+https://toffeecraft.itch.io/ui-user-interface-pack-elegant </br>
+https://elvgames.itch.io/free-inventory-asset-pack </br>
+https://elvgames.itch.io/free-inventory-for-rpg-or-farming-games </br>
 </br></br>
-Structures/Tilesets:
-https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack 16x16
+Structures/Tilesets:</br>
+https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack 16x16 </br>
 </br></br>
-Weapons:
-https://pixelcreations.itch.io/rpg-items-16x16 16x16
-https://vladpenn.itch.io/weapon 16x16
+Weapons: </br>
+https://pixelcreations.itch.io/rpg-items-16x16 16x16 </br>
+https://vladpenn.itch.io/weapon 16x16 </br>
 </br></br>
-Items:
-https://glionox.itch.io/items16 16x16
+Items: </br>
+https://glionox.itch.io/items16 16x16 </br>
 </br></br>
-Projectiles:
-https://bdragon1727.itch.io/500-pixel-bullet-24x24 24x24
+Projectiles: </br>
+https://bdragon1727.itch.io/500-pixel-bullet-24x24 24x24 </br>
 </br></br>
-Characters:
-https://papoycore.itch.io/fairy 32x32
-https://papoycore.itch.io/free-meow 32x48
-https://papoycore.itch.io/bat 64x64
-https://papoycore.itch.io/free-drone 32x96 32x32 22x24
-https://papoycore.itch.io/free-agis 224x240
-https://bruno-farias.itch.io/sidescroller-character-pack 
+Characters: </br>
+https://papoycore.itch.io/fairy 32x32 </br>
+https://papoycore.itch.io/free-meow 32x48 </br>
+https://papoycore.itch.io/bat 64x64 </br>
+https://papoycore.itch.io/free-drone 32x96 32x32 22x24 </br>
+https://papoycore.itch.io/free-agis 224x240 </br>
+https://bruno-farias.itch.io/sidescroller-character-pack </br>
 
 
 
