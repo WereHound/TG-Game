@@ -103,25 +103,31 @@ Fase 4: Polimento, balanceamento e testes de qualidade.
 Conclusão:
 "Voltando para Casa" é um jogo que combina exploração, sobrevivência e combate em um mundo alienígena rico e cheio de segredos. Com mecânicas únicas, como o sistema de trocas e a reconstrução da nave, o jogo oferece uma experiência envolvente e repleta de desafios, garantindo horas de diversão e replayability.
 
-
+</br></br></br></br>
 
 
 Assets:
 https://helianthus-games.itch.io/animated-pixel-art-planets 
 https://bongseng.itch.io/parallax-forest-desert-sky-moon 
+</br></br>
 UI:
 https://toffeecraft.itch.io/ui-user-interface-pack-elegant
 https://elvgames.itch.io/free-inventory-asset-pack
 https://elvgames.itch.io/free-inventory-for-rpg-or-farming-games
+</br></br>
 Structures/Tilesets:
 https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack 16x16
+</br></br>
 Weapons:
 https://pixelcreations.itch.io/rpg-items-16x16 16x16
 https://vladpenn.itch.io/weapon 16x16
+</br></br>
 Items:
 https://glionox.itch.io/items16 16x16
+</br></br>
 Projectiles:
 https://bdragon1727.itch.io/500-pixel-bullet-24x24 24x24
+</br></br>
 Characters:
 https://papoycore.itch.io/fairy 32x32
 https://papoycore.itch.io/free-meow 32x48
