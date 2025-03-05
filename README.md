@@ -110,7 +110,7 @@ https://helianthus-games.itch.io/animated-pixel-art-planets </br>
 https://bongseng.itch.io/parallax-forest-desert-sky-moon </br>
 </br></br>
 UI: </br>
-https://toffeecraft.itch.io/ui-user-interface-pack-elegant </br>
+https://sungraphica.itch.io/sci-fi-game-ui-collection-free-version </br>
 </br></br>
 Structures/Tilesets: </br>
 https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack 16x16 </br>
