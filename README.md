@@ -111,6 +111,7 @@ https://bongseng.itch.io/parallax-forest-desert-sky-moon </br>
 </br></br>
 UI: </br>
 https://sungraphica.itch.io/sci-fi-game-ui-collection-free-version </br>
+https://cyrex-studios.itch.io/universal-ui-soundpack </br>
 </br></br>
 Structures/Tilesets: </br>
 https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack 16x16 </br>
@@ -118,6 +119,8 @@ https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack 16x16 </br>
 Weapons: </br>
 https://pixelcreations.itch.io/rpg-items-16x16 16x16 </br>
 https://vladpenn.itch.io/weapon 16x16 </br>
+https://hoveaudio.itch.io/sword-combat-sound-effects-pack-free-version </br>
+https://wilkingames.itch.io/premium-weapon-pack
 </br></br>
 Items: </br>
 https://glionox.itch.io/items16 16x16 </br>
