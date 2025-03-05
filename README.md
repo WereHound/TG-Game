@@ -136,6 +136,7 @@ Enemy 3: https://papoycore.itch.io/free-drone 32x96 32x32 22x24 </br>
 Boss 1: https://papoycore.itch.io/free-agis 224x240 </br>
 Pet 1: https://admurin.itch.io/top-down-mobs-dog </br>
 Player Character 1: https://lukepolice.itch.io/pixelarium-playable-character</br>
+https://ateliermagicae.itch.io/fantasy-monsters-sfx-vol1
 
 
 
