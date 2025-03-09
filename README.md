@@ -1,5 +1,5 @@
-<img src="https://media1.tenor.com/m/dTYtKco4i8UAAAAd/tom-hanks-peeing.gif" alt="alternatetext">
-
+<img src="https://i.imgur.com/EOTeK4v.jpeg">
+<img src="https://media1.tenor.com/m/dTYtKco4i8UAAAAd/tom-hanks-peeing.gif">
 
 Título: Voltando para Casa </br>
 Plataforma: PC (com possibilidade de expansão para consoles no futuro) </br>
