@@ -1,3 +1,4 @@
+<img src="https://cdn.discordapp.com/attachments/857843095298899981/1348120641404014654/image.png">
 Título: Voltando para Casa </br>
 Plataforma: PC (com possibilidade de expansão para consoles no futuro) </br>
 Idade do Público-Alvo: 13+ </br>
