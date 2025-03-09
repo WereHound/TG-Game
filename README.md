@@ -1,4 +1,4 @@
-<img src="https://discord.com/channels/777000188757147679/777000188757147682/1346996354425163797/" alt="alternatetext">
+<img src="https://i.imgur.com/EOTeK4v.jpeg" alt="alternatetext">
 
 
 Título: Voltando para Casa </br>
